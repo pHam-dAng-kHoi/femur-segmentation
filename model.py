@@ -11,6 +11,8 @@ Dynamically created UNet with variable  Width, Depth and activation
 Aleksei Tiulpin, Unversity of Oulu, 2017 (c).
 """
 
+# This implementation is based on the original U-Net code by Aleksei Tiulpin.
+# Minor modifications were made for this project.
 
 logging.basicConfig()
 logger = logging.getLogger('models')
