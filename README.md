@@ -74,3 +74,9 @@ python main.py
 ```
 
 The generated model, predictions, and training plots are saved in the `sessions/` folder.
+
+## License
+
+This project is licensed under the MIT License.
+
+The U-Net model used in this project is based on the work of **Aleksei Tiulpin (2017)** and is also released under the MIT License. The original attribution has been retained in `model.py`. Minor modifications were made to adapt the model for this project.
